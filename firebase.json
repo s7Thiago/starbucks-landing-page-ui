@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "my-starbucks-sample-2021",
     "public": "public",
     "ignore": [
       "firebase.json",

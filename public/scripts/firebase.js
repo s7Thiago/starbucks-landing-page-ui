@@ -7,13 +7,13 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyDmjk53B3Y_D_kHJhGC66eODyFbPDQ6hes",
-    authDomain: "starbucks-landing-page-75016.firebaseapp.com",
-    projectId: "starbucks-landing-page-75016",
-    storageBucket: "starbucks-landing-page-75016.appspot.com",
-    messagingSenderId: "82907133064",
-    appId: "1:82907133064:web:9b8034eec71a2ee3965b3d",
-    measurementId: "G-3ZKB7H2L2P"
+    apiKey: "AIzaSyCnkcthr5giZtl4ny7XZ-QELdhiYqTBXLE",
+    authDomain: "my-starbucks-sample-2021.firebaseapp.com",
+    projectId: "my-starbucks-sample-2021",
+    storageBucket: "my-starbucks-sample-2021.appspot.com",
+    messagingSenderId: "643243962532",
+    appId: "1:643243962532:web:fe18850a68b420f868b631",
+    measurementId: "G-4CJR6981ER"
 };
 
 // Initialize Firebase
